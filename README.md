@@ -32,16 +32,36 @@ MeetMind is an intelligent meeting assistant that processes meeting transcripts 
 ## 🖼️ Screenshots & Examples
 
 ### Main Dashboard
-*[Add screenshot of your main interface showing the drag-and-drop area and upload options]*
+<details>
+<summary>📸 Click to view screenshots</summary>
+
+![Screenshot 3](screenshots/img1.png)
+
+</details>
 
 ### File Upload Process
-*[Add screenshot demonstrating the drag-and-drop functionality with multiple file types]*
+<details>
+<summary>📸 Click to view screenshots</summary>
+
+![Screenshot 3](screenshots/img1.png)
+
+</details>
 
 ### AI Summary Generation
-*[Add screenshot showing the custom prompt interface and generated summary]*
+<details>
+<summary>📸 Click to view screenshots</summary>
+
+![Screenshot 3](screenshots/img2.png)
+
+</details>
 
 ### Email Preview Modal
-*[Add screenshot of the email preview modal before sending]*
+<details>
+<summary>📸 Click to view screenshots</summary>
+
+![Screenshot 3](screenshots/img3.png)
+
+</details>
 
 ### Example Meeting Summary Output
 ```
