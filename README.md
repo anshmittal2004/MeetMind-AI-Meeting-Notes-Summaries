@@ -35,7 +35,7 @@ MeetMind is an intelligent meeting assistant that processes meeting transcripts 
 <details>
 <summary>📸 Click to view screenshots</summary>
 
-![Screenshot 3](screenshots/img1.png)
+![Screenshot 3](img1.png)
 
 </details>
 
@@ -43,7 +43,7 @@ MeetMind is an intelligent meeting assistant that processes meeting transcripts 
 <details>
 <summary>📸 Click to view screenshots</summary>
 
-![Screenshot 3](screenshots/img1.png)
+![Screenshot 3](img1.png)
 
 </details>
 
@@ -51,7 +51,7 @@ MeetMind is an intelligent meeting assistant that processes meeting transcripts 
 <details>
 <summary>📸 Click to view screenshots</summary>
 
-![Screenshot 3](screenshots/img2.png)
+![Screenshot 3](img2.png)
 
 </details>
 
@@ -59,7 +59,7 @@ MeetMind is an intelligent meeting assistant that processes meeting transcripts 
 <details>
 <summary>📸 Click to view screenshots</summary>
 
-![Screenshot 3](screenshots/img3.png)
+![Screenshot 3](img3.png)
 
 </details>
 
